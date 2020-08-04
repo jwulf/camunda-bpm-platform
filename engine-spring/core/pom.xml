@@ -11,10 +11,6 @@
     <version>7.14.0-SNAPSHOT</version>
   </parent>
 
-  <properties>
-    <version.hibernate>3.3.2.GA</version.hibernate>
-  </properties>
-
   <dependencies>
     <dependency>
       <groupId>org.camunda.bpm</groupId>
