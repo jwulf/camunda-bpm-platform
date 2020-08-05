@@ -21,7 +21,7 @@ import org.springframework.test.context.TestContext;
 import org.springframework.test.context.TestContextManager;
 import org.springframework.test.context.TestExecutionListener;
 
-public class Spring3TestHelper implements SpringTestHelper {
+public class Spring5TestHelper implements SpringTestHelper {
 
   @Override
   public void beforeTestClass(TestContextManager testContextManager) {
